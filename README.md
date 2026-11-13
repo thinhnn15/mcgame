@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/banner.jpg" alt="Về Nhà: Coming Home">
+  <img src="docs/screenshots/banner.jpg" width="100%" alt="Về Nhà: Coming Home">
 </p>
 
 <p align="center">
@@ -15,34 +15,46 @@ Ride the old Vespa past the rice fields, wander the lotus ponds, fix up the fami
 and share the village with up to three friends online.
 </i></p>
 
-<p align="center">
-  <img src="docs/screenshots/s01_vespa.jpg" width="100%" alt="Riding the Vespa through the fields">
-</p>
+<p align="center"><img src="docs/screenshots/s01_vespa.jpg" width="100%" alt="Riding the Vespa through the fields"></p>
+<p align="center"><i>Riding the old Vespa through the fields</i></p>
 
-| | |
-|:---:|:---:|
-| ![Pier](docs/screenshots/s02_pier.jpg) | ![Fields at dusk](docs/screenshots/s03_fields_dusk.jpg) |
-| *Out on the pier, facing the mountains* | *The fields at dusk* |
-| ![Banyan](docs/screenshots/s04_banyan.jpg) | ![Home](docs/screenshots/s05_home.jpg) |
-| *Under the old banyan at the village gate* | *Home, on a fresh morning* |
-| ![Lotus walk](docs/screenshots/s06_lotus_walk.jpg) | ![Golden rice](docs/screenshots/s07_rice_gold.jpg) |
-| *The lotus pond boardwalk* | *Harvest-gold rice* |
-| ![Lake](docs/screenshots/s08_lake.jpg) | ![Village gate](docs/screenshots/s09_village_gate.jpg) |
-| *Reeds by the duck pond* | *Làng Yên Khê* |
+<p align="center"><img src="docs/screenshots/s02_pier.jpg" width="100%" alt="Pier"></p>
+<p align="center"><i>Out on the pier, facing the mountains</i></p>
 
-<p align="center">
-  <img src="docs/screenshots/s10_morning.jpg" width="100%" alt="Morning over the fields">
-</p>
+<p align="center"><img src="docs/screenshots/s03_fields_dusk.jpg" width="100%" alt="Fields at dusk"></p>
+<p align="center"><i>The fields at dusk</i></p>
+
+<p align="center"><img src="docs/screenshots/s04_banyan.jpg" width="100%" alt="Banyan"></p>
+<p align="center"><i>Under the old banyan at the village gate</i></p>
+
+<p align="center"><img src="docs/screenshots/s05_home.jpg" width="100%" alt="Home"></p>
+<p align="center"><i>Home, on a fresh morning</i></p>
+
+<p align="center"><img src="docs/screenshots/s06_lotus_walk.jpg" width="100%" alt="Lotus walk"></p>
+<p align="center"><i>The lotus pond boardwalk</i></p>
+
+<p align="center"><img src="docs/screenshots/s07_rice_gold.jpg" width="100%" alt="Golden rice"></p>
+<p align="center"><i>Harvest-gold rice</i></p>
+
+<p align="center"><img src="docs/screenshots/s08_lake.jpg" width="100%" alt="Lake"></p>
+<p align="center"><i>Reeds by the duck pond</i></p>
+
+<p align="center"><img src="docs/screenshots/s09_village_gate.jpg" width="100%" alt="Village gate"></p>
+<p align="center"><i>Làng Yên Khê</i></p>
+
+<p align="center"><img src="docs/screenshots/s10_morning.jpg" width="100%" alt="Morning over the fields"></p>
+<p align="center"><i>Morning over the fields</i></p>
 
 ### Dress up, meet the animals, join the festivals
 
-<p align="center">
-  <img src="docs/screenshots/x1_outfits.jpg" width="49%" alt="Sungha's outfits">
-  <img src="docs/screenshots/x3_lion_dance.jpg" width="49%" alt="Lion dance festival">
-</p>
-<p align="center">
-  <img src="docs/screenshots/x2_cats.jpg" width="98%" alt="Village cats">
-</p>
+<p align="center"><img src="docs/screenshots/x1_outfits.jpg" width="100%" alt="Sungha's outfits"></p>
+<p align="center"><i>Sungha's outfits</i></p>
+
+<p align="center"><img src="docs/screenshots/x3_lion_dance.jpg" width="100%" alt="Lion dance festival"></p>
+<p align="center"><i>The lion dance festival</i></p>
+
+<p align="center"><img src="docs/screenshots/x2_cats.jpg" width="100%" alt="Village cats"></p>
+<p align="center"><i>The village cats</i></p>
 
 ---
 
