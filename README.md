@@ -1,82 +1,86 @@
 <p align="center">
-  <img src="docs/screenshots/banner.jpg" width="100%" alt="Về Nhà: Coming Home">
+  <img src="docs/screenshots/banner.jpg" width="100%" alt="Về Nhà: từ nô lệ tư bản thành địa chủ miền quê">
 </p>
 
 <p align="center">
   <img alt="Godot 4" src="https://img.shields.io/badge/Godot-4.7-478CBF?logo=godotengine&logoColor=white">
   <img alt="C++17" src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white">
-  <img alt="Shaders" src="https://img.shields.io/badge/shaders-65-8a5cf5">
-  <img alt="Platforms" src="https://img.shields.io/badge/platforms-Windows%20%7C%20iOS-6aa84f">
+  <img alt="Shaders" src="https://img.shields.io/badge/shader-65-8a5cf5">
+  <img alt="Nền tảng" src="https://img.shields.io/badge/n%E1%BB%81n%20t%E1%BA%A3ng-Windows%20%7C%20iOS-6aa84f">
+  <img alt="Deadline" src="https://img.shields.io/badge/deadline-kh%C3%B4ng%20c%C3%B3-e8a33d">
 </p>
 
 <p align="center"><i>
-Sungha comes home to a little village tucked between limestone mountains.<br>
-Ride the old Vespa past the rice fields, wander the lotus ponds, fix up the family house<br>
-and share the village with up to three friends online.
+Bao năm chạy deadline, họp daily, fix bug lúc 2 giờ sáng.<br>
+Một ngày đẹp trời, Sungha gập laptop, bắt xe về quê và quyết định:<br>
+<b>từ nay không làm nô lệ cho tư bản nữa, về làm địa chủ!</b><br>
+(Địa chủ có mấy sào ruộng, một con Vespa cũ và một đàn mèo không nghe lời.)
 </i></p>
 
-<p align="center"><img src="docs/screenshots/s01_vespa.jpg" width="100%" alt="Riding the Vespa through the fields"></p>
-<p align="center"><i>Riding the old Vespa through the fields</i></p>
+<p align="center"><img src="docs/screenshots/s01_vespa.jpg" width="100%" alt="Phóng Vespa qua cánh đồng"></p>
+<p align="center"><i>Phương tiện di chuyển của địa chủ: Vespa đời cổ, đề ba lần mới nổ.</i></p>
 
-<p align="center"><img src="docs/screenshots/s02_pier.jpg" width="100%" alt="Pier"></p>
-<p align="center"><i>Out on the pier, facing the mountains</i></p>
+<p align="center"><img src="docs/screenshots/s02_pier.jpg" width="100%" alt="Trên cầu gỗ nhìn ra núi"></p>
+<p align="center"><i>Ngày trước nhìn màn hình 8 tiếng. Giờ nhìn núi 8 tiếng. Mắt khỏe hẳn.</i></p>
 
-<p align="center"><img src="docs/screenshots/s03_fields_dusk.jpg" width="100%" alt="Fields at dusk"></p>
-<p align="center"><i>The fields at dusk</i></p>
+<p align="center"><img src="docs/screenshots/s03_fields_dusk.jpg" width="100%" alt="Cánh đồng lúc hoàng hôn"></p>
+<p align="center"><i>6 giờ chiều. Không ai nhắn "em ơi anh nhờ tí".</i></p>
 
-<p align="center"><img src="docs/screenshots/s04_banyan.jpg" width="100%" alt="Banyan"></p>
-<p align="center"><i>Under the old banyan at the village gate</i></p>
+<p align="center"><img src="docs/screenshots/s04_banyan.jpg" width="100%" alt="Dưới gốc đa đầu làng"></p>
+<p align="center"><i>Gốc đa đầu làng: trụ sở chính của hội "nghe nói là...".</i></p>
 
-<p align="center"><img src="docs/screenshots/s05_home.jpg" width="100%" alt="Home"></p>
-<p align="center"><i>Home, on a fresh morning</i></p>
+<p align="center"><img src="docs/screenshots/s05_home.jpg" width="100%" alt="Nhà bố mẹ buổi sáng"></p>
+<p align="center"><i>Dinh cơ địa chủ (của bố mẹ). Sửa dần, không vay ngân hàng.</i></p>
 
-<p align="center"><img src="docs/screenshots/s06_lotus_walk.jpg" width="100%" alt="Lotus walk"></p>
-<p align="center"><i>The lotus pond boardwalk</i></p>
+<p align="center"><img src="docs/screenshots/s06_lotus_walk.jpg" width="100%" alt="Cầu gỗ ở đầm sen"></p>
+<p align="center"><i>Đầm sen. KPI duy nhất trong ngày: đi hết cây cầu.</i></p>
 
-<p align="center"><img src="docs/screenshots/s07_rice_gold.jpg" width="100%" alt="Golden rice"></p>
-<p align="center"><i>Harvest-gold rice</i></p>
+<p align="center"><img src="docs/screenshots/s07_rice_gold.jpg" width="100%" alt="Lúa chín vàng"></p>
+<p align="center"><i>Lúa chín vàng. Thưởng cuối năm lần này là thật, đong được bằng bao.</i></p>
 
-<p align="center"><img src="docs/screenshots/s08_lake.jpg" width="100%" alt="Lake"></p>
-<p align="center"><i>Reeds by the duck pond</i></p>
+<p align="center"><img src="docs/screenshots/s08_lake.jpg" width="100%" alt="Ao vịt và lau"></p>
+<p align="center"><i>Ao vịt. Vịt không biết sprint là gì, và vịt rất hạnh phúc.</i></p>
 
-<p align="center"><img src="docs/screenshots/s09_village_gate.jpg" width="100%" alt="Village gate"></p>
-<p align="center"><i>Làng Yên Khê</i></p>
+<p align="center"><img src="docs/screenshots/s09_village_gate.jpg" width="100%" alt="Cổng làng Yên Khê"></p>
+<p align="center"><i>Làng Yên Khê: nơi wifi yếu nhưng tình làng nghĩa xóm full vạch.</i></p>
 
-<p align="center"><img src="docs/screenshots/s10_morning.jpg" width="100%" alt="Morning over the fields"></p>
-<p align="center"><i>Morning over the fields</i></p>
+<p align="center"><img src="docs/screenshots/s10_morning.jpg" width="100%" alt="Buổi sáng nhìn ra cánh đồng"></p>
+<p align="center"><i>Buổi sáng của địa chủ: dậy khi nào tùy thích, điểm danh cánh đồng.</i></p>
 
-### Dress up, meet the animals, join the festivals
+### Địa chủ cũng cần ăn diện, nuôi mèo và đi hội
 
-<p align="center"><img src="docs/screenshots/x1_outfits.jpg" width="100%" alt="Sungha's outfits"></p>
-<p align="center"><i>Sungha's outfits</i></p>
+<p align="center"><img src="docs/screenshots/x1_outfits.jpg" width="100%" alt="Tủ đồ của Sungha"></p>
+<p align="center"><i>Tủ đồ địa chủ. Không còn sơ mi công sở nào.</i></p>
 
-<p align="center"><img src="docs/screenshots/x3_lion_dance.jpg" width="100%" alt="Lion dance festival"></p>
-<p align="center"><i>The lion dance festival</i></p>
+<p align="center"><img src="docs/screenshots/x3_lion_dance.jpg" width="100%" alt="Múa lân"></p>
+<p align="center"><i>Hội làng có múa lân. Đây là team building duy nhất mà ai cũng muốn đi.</i></p>
 
-<p align="center"><img src="docs/screenshots/x2_cats.jpg" width="100%" alt="Village cats"></p>
-<p align="center"><i>The village cats</i></p>
+<p align="center"><img src="docs/screenshots/x2_cats.jpg" width="100%" alt="Đàn mèo trong làng"></p>
+<p align="center"><i>Nhân sự trong làng. Không ai làm việc, nhưng ai cũng được nhận lương (cá khô).</i></p>
 
 ---
 
-## Under the hood
+## Bên trong có gì
+
+Địa chủ thì sống chậm, nhưng code thì phải chạy nhanh:
 
 | | |
 |---|---|
-| **Engine** | Godot 4.7, customised build |
-| **Native code** | C++17 GDExtension, 31 classes: hair and cloth physics, fish schooling and flocking, terrain meshing, chunked grass, time-of-day colour grading, saves and gameplay rules |
-| **Rendering** | 65 hand-written shaders: toon lighting, water, rain, wind, sky and screen effects |
-| **World** | A 2 × 2 km valley streamed by area, with a day–night cycle and seasons |
-| **Online play** | Up to 4 players over UDP (ENet); single-player runs through the same code path |
-| **Platforms** | Windows, iOS |
+| **Engine** | Godot 4.7, bản build tự tùy biến |
+| **Code native** | C++17 GDExtension, 31 class: vật lý tóc và vải, đàn cá bơi và chim bay theo bầy, dựng địa hình, cỏ chia theo ô, chỉnh màu theo giờ trong ngày, lưu game và luật chơi |
+| **Đồ họa** | 65 shader viết tay: ánh sáng toon, nước, mưa, gió, bầu trời và hiệu ứng màn hình |
+| **Thế giới** | Thung lũng 2 × 2 km nạp theo vùng, có ngày đêm và bốn mùa |
+| **Chơi online** | Tối đa 4 người qua UDP (ENet). Rủ thêm ba đứa bạn về làm địa chủ cùng; chơi một mình cũng đi chung một luồng code |
+| **Nền tảng** | Windows, iOS |
 
-*Every screenshot above is an in-game capture, rendered by the game itself.*
+*Mọi ảnh ở trên đều do chính game render, không chỉnh sửa, không AI vẽ hộ.*
 
-## About this repository
+## Về repo này
 
-This is a **source-code showcase**: C++ (`cpp/`), GDScript (`scripts/`) and shaders (`shaders/`).
-Art, models, animations, audio, game data, tools and the engine build are **not included**, so the project does not run from this repository.
+Đây là repo **khoe code**: C++ (`cpp/`), GDScript (`scripts/`) và shader (`shaders/`).
+Hình ảnh, model, animation, âm thanh, dữ liệu game, tool và bản build engine **không có ở đây**, nên clone về sẽ không chạy được đâu. Đất của địa chủ, không chia đâu nhé :))
 
-## License
+## Bản quyền
 
-© 2026 Nguyen Ngoc Thinh. All rights reserved.
-The code and images are published for viewing only; no permission is granted to copy, modify or redistribute them.
+© 2026 Nguyen Ngoc Thinh. Bảo lưu mọi quyền.
+Code và hình ảnh chỉ để xem; không cho phép sao chép, chỉnh sửa hay phân phối lại.
