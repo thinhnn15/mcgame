@@ -17,6 +17,18 @@ Một ngày đẹp trời, Sungha gập laptop, bắt xe về quê và quyết �
 (Địa chủ có mấy sào ruộng, một con Vespa cũ và một đàn mèo không nghe lời.)
 </i></p>
 
+### 🎬 Cutscene: Chuyến tàu về quê
+
+<p align="center">
+  <a href="docs/video/ve_nha_cutscene.mp4"><img src="docs/video/ve_nha_cutscene.webp" width="100%" alt="Cutscene chuyến tàu về quê: rời thành phố trong mưa, qua cầu sắt, đồng lúa, thung lũng núi đá, chui hầm và về tới ga Yên Khê"></a>
+</p>
+<p align="center"><i>
+Rời ga thành phố lúc trời mưa tầm tã, qua cây cầu sắt, đồng lúa có cò bay, con đò trên sông, thung lũng núi đá,<br>
+chui qua hầm là thấy hoàng hôn quê nhà. Xuống ga Yên Khê, bố đã chờ sẵn bên chiếc xe máy.<br>
+Không có ai nhắn "em ơi anh nhờ tí" trên suốt chặng đường.
+</i></p>
+<p align="center"><b><a href="docs/video/ve_nha_cutscene.mp4">▶ Xem bản đầy đủ (2 phút 18 giây)</a></b></p>
+
 <p align="center"><img src="docs/screenshots/s01_vespa.jpg" width="100%" alt="Phóng Vespa qua cánh đồng"></p>
 <p align="center"><i>Phương tiện di chuyển của địa chủ: Vespa đời cổ, đề ba lần mới nổ.</i></p>
 

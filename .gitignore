@@ -34,5 +34,7 @@
 .claude/
 CLAUDE.md
 
-# README screenshots are the only images allowed
+# README screenshots and the cutscene recording are the only media allowed
 !docs/screenshots/*.jpg
+!docs/video/ve_nha_cutscene.mp4
+!docs/video/ve_nha_cutscene.webp
