@@ -23,8 +23,9 @@ Một ngày đẹp trời, Sungha gập laptop, bắt xe về quê và quyết �
   <a href="docs/video/ve_nha_cutscene.mp4"><img src="docs/video/ve_nha_cutscene.webp" width="100%" alt="Cutscene chuyến tàu về quê: rời thành phố trong mưa, qua cầu sắt, đồng lúa, thung lũng núi đá, chui hầm và về tới ga Yên Khê"></a>
 </p>
 <p align="center"><i>
-Rời ga thành phố lúc trời mưa tầm tã, qua cây cầu sắt, đồng lúa có cò bay, con đò trên sông, thung lũng núi đá,<br>
-chui qua hầm là thấy hoàng hôn quê nhà. Xuống ga Yên Khê, bố đã chờ sẵn bên chiếc xe máy.<br>
+Rời ga thành phố lúc trời mưa tầm tã, ngồi chung toa với bà con cùng về quê, qua cây cầu sắt,<br>
+đồng lúa có cò bay, mấy con đò chở khách đạp chèo bằng chân, thung lũng núi đá.<br>
+Chú lái tàu đưa cả toa chui qua hầm là thấy hoàng hôn quê nhà. Xuống ga Yên Khê, bố đội mũ cối chờ sẵn bên chiếc xe máy.<br>
 Không có ai nhắn "em ơi anh nhờ tí" trên suốt chặng đường.
 </i></p>
 <p align="center"><b><a href="docs/video/ve_nha_cutscene.mp4">▶ Xem bản đầy đủ (2 phút 18 giây)</a></b></p>
