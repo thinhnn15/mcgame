@@ -1,0 +1,18 @@
+import os
+import sys
+
+env = SConscript(os.path.join(os.environ.get("GODOT_CPP", "../godot-cpp"), "SConstruct"))
+env.Append(CPPPATH=["src/"])
+sources = Glob("src/*.cpp")
+
+if env["platform"] == "macos":
+    library = env.SharedLibrary(
+        "../bin/libmcgame_core.{}.{}.framework/libmcgame_core.{}.{}".format(
+            env["platform"], env["target"], env["platform"], env["target"]),
+        source=sources)
+elif env["platform"] == "ios":
+    library = env.StaticLibrary("../bin/libmcgame_core.{}.{}.a".format(env["platform"], env["target"]), source=sources)
+else:
+    library = env.SharedLibrary("../bin/mcgame_core{}{}".format(env["suffix"], env["SHLIBSUFFIX"]), source=sources)
+
+Default(library)
